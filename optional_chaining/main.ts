@@ -1,8 +1,8 @@
 /*
-    Optional chaining: A process which allows the access of nested properties of an object
-                       without the need to validate the existence of each property in the chain.
-                       It first checks the existence of the property and then accesses it. If the
-                       variable is null or undefined, it returns undefined.
+    Optional chaining (?): A process which allows the access of nested properties of an object
+                           without the need to validate the existence of each property in the chain.
+                           It first checks the existence of the property and then accesses it. If the
+                           variable is null or undefined, it returns undefined.
 */
 
 // Define User type
