@@ -1,3 +1,8 @@
+/*
+    Type casting: A mechanism to override the type assigned and treat the
+                  variable as a different type than the one assigned by the compiler.
+*/
+
 // Define variable with unknown type
 let x: unknown = 'hello world';
 
