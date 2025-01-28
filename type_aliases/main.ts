@@ -1,3 +1,7 @@
+/*
+    Type aliasing: Used to assign a custm name to an existing type.
+*/
+
 // Define type alias
 type MyString = string;
 
