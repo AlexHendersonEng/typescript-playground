@@ -1,3 +1,8 @@
+/*
+    arrays: A homogenous collection of similar types that have a contiguos
+            memory location and are accessed by an index.
+*/
+
 // Create array
 const names: string[] = ['Alice', 'Bob', 'Charlie'];
 
