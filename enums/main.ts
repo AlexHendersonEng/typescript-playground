@@ -1,3 +1,7 @@
+/*
+    Enum: A special class that represents a group of constants (unchangeable variables).
+*/
+
 // Define directions enum
 enum Directions {
     North,
